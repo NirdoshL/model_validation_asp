@@ -1,0 +1,68 @@
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\appsettings.Development.json
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\appsettings.json
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\database.staticwebassets.runtime.json
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\database.exe
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\database.deps.json
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\database.runtimeconfig.json
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\database.dll
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\database.pdb
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\6th sem\6th sem practical\DataBase\database\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.csproj.AssemblyReference.cache
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.AssemblyInfoInputs.cache
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.AssemblyInfo.cs
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.csproj.CoreCompileInputs.cache
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.MvcApplicationPartsAssemblyInfo.cache
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.RazorAssemblyInfo.cache
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.RazorAssemblyInfo.cs
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\staticwebassets\msbuild.database.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\staticwebassets\msbuild.build.database.props
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.database.props
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.database.props
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\staticwebassets.pack.json
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\staticwebassets.build.json
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\staticwebassets.development.json
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\scopedcss\bundle\database.styles.css
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\scopedcss\projectbundle\database.bundle.scp.css
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.csproj.CopyComplete
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.dll
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\refint\database.dll
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.pdb
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\database.genruntimeconfig.cache
+E:\6th sem\6th sem practical\DataBase\database\obj\Debug\net7.0\ref\database.dll
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\appsettings.Development.json
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\appsettings.json
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\database.staticwebassets.runtime.json
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\database.exe
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\database.deps.json
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\database.runtimeconfig.json
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\database.dll
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\database.pdb
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\6th sem\6th sem practical\Model Validation\database\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.csproj.AssemblyReference.cache
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.GeneratedMSBuildEditorConfig.editorconfig
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.AssemblyInfoInputs.cache
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.AssemblyInfo.cs
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.csproj.CoreCompileInputs.cache
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.MvcApplicationPartsAssemblyInfo.cache
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.RazorAssemblyInfo.cache
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.RazorAssemblyInfo.cs
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\staticwebassets\msbuild.database.Microsoft.AspNetCore.StaticWebAssets.props
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\staticwebassets\msbuild.build.database.props
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.database.props
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.database.props
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\staticwebassets.pack.json
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\staticwebassets.build.json
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\staticwebassets.development.json
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\scopedcss\bundle\database.styles.css
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\scopedcss\projectbundle\database.bundle.scp.css
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.csproj.CopyComplete
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.dll
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\refint\database.dll
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.pdb
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\database.genruntimeconfig.cache
+E:\6th sem\6th sem practical\Model Validation\database\obj\Debug\net7.0\ref\database.dll

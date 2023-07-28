@@ -1,0 +1,30 @@
+@model LoginModel;
+@{
+    ViewData["Title"]="User/Dashboard";
+}
+<table style="border: 1px solid green;">
+<tbody>
+    <tr style="border: 1px solid green;">
+        <th>
+            UserName
+        </th>
+        <th>
+            Email
+        </th>
+          <th>
+            Password
+        </th>
+    </tr>
+    <tr style="border: 1px solid green;">
+        <td>
+            @Model.UserName
+        </td>
+         <td>
+            @Model.Email
+        </td>
+         <td>
+            @Model.Password
+        </td>
+    </tr>
+</tbody>
+</table>
